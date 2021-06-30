@@ -1,0 +1,93 @@
+Feature,Importance
+High,0.169522241
+Close_ewm_1,0.156725481
+Close_ewm_2,0.152410448
+Close,0.117618307
+Open,0.085096456
+Low,0.065486707
+Close_ewm_6,0.044878241
+Close_ewm_9,0.037364915
+Close_ewm_7,0.034146253
+Close_ewm_3,0.032317024
+Close_ewm_5,0.031996775
+Close_ewm_4,0.027991995
+Close_ewm_8,0.027516808
+Close_Previous,0.016548639
+Date_Month,6.55E-05
+Date_Week_Factorize,5.95E-05
+DateTime (EST)_Previous_Factorize,5.56E-05
+Date_DayOfYear,4.75E-05
+Date_Year,2.52E-05
+From_Factorize,1.96E-05
+To_Factorize,1.33E-05
+Expiry Year,1.29E-05
+Date_Quarter,8.24E-06
+Contract_Factorize,7.96E-06
+DateTime (EST)_Factorize,7.91E-06
+Expiry Month,7.37E-06
+Days Till Settlement,6.62E-06
+Date_Date_Factorize,6.53E-06
+Contract Settlement DateTime (EST)_Factorize,5.68E-06
+Date_DayOfMonth,4.29E-06
+DollarVolume_ewm_9,2.47E-06
+Volume_ewm_9,2.14E-06
+Range_ewm_8,2.01E-06
+Date_DayOfWeek,1.62E-06
+Volume_ewm_8,1.51E-06
+Range_ewm_9,1.25E-06
+DollarVolume_ewm_8,1.07E-06
+Volume_ewm_7,1.05E-06
+Open_Gap_ewm_9,9.54E-07
+Change_ewm_9,9.22E-07
+Range_ewm_7,8.27E-07
+Open_Gap_ewm_8,8.15E-07
+Range_ewm_6,7.65E-07
+Change_ewm_8,7.55E-07
+Volume_ewm_6,5.73E-07
+Date_Hour,4.78E-07
+Volume_ewm_5,4.36E-07
+Change_ewm_7,3.90E-07
+DollarVolume_ewm_7,3.72E-07
+Change_ewm_6,3.64E-07
+DollarVolume_ewm_6,3.33E-07
+Range_ewm_5,3.31E-07
+Date_Time_Factorize,3.04E-07
+Volume_ewm_3,2.97E-07
+Open_Gap_ewm_7,2.42E-07
+Date_Minute,2.06E-07
+Change_ewm_5,1.97E-07
+Volume_ewm_4,1.95E-07
+Change_ewm_4,1.90E-07
+Open_Gap_ewm_6,1.83E-07
+Volume_ewm_2,1.81E-07
+Range_ewm_4,1.75E-07
+Range_ewm_3,1.66E-07
+DollarVolume_ewm_5,1.60E-07
+Open_Gap_ewm_5,1.54E-07
+DollarVolume_ewm_4,1.47E-07
+Range_ewm_2,1.31E-07
+DollarVolume_ewm_3,1.30E-07
+Change_ewm_3,1.23E-07
+Open_Gap_ewm_2,1.13E-07
+Open_Gap_ewm_4,1.06E-07
+Open_Gap_ewm_3,1.05E-07
+DollarVolume_ewm_2,1.00E-07
+Range%,9.61E-08
+Change_ewm_2,7.75E-08
+Volume,7.75E-08
+Range,7.03E-08
+No Volume,6.72E-08
+Range_ewm_1,6.37E-08
+Volume_ewm_1,6.16E-08
+Change,5.78E-08
+Change_ewm_1,5.48E-08
+DollarVolume_ewm_1,5.36E-08
+DollarVolume_Positive,5.12E-08
+DollarVolume,4.94E-08
+DollarVolume_Negative,4.83E-08
+Open_Gap,4.72E-08
+Change%,4.61E-08
+GAP,4.43E-08
+Open_Gap_ewm_1,4.16E-08
+Open_Gap%,3.89E-08
+Minutes Since Last Trade,0
