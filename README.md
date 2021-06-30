@@ -25,5 +25,5 @@
 **Target:** Closing Price Three Periods Ahead \
 **Evaluation Metric:** RMSE | An 0.25 RMSE means that the models prediction is off by an absolute value of $0.25. This metric does not account for the direction of prediction. \
 **Train Test Split:** For each Future Contract Month the oldest 80% of data was labelled as train with the most recent 20% as test data. The test data was further split into four groups of 5% each. \
-                      **Result(RMSE)**: [0] = 0.37783, [1] = 0.55392, [2] = 0.99590, [3] = 1.69334
+                      **Result(RMSE)**: [0] = 0.37783, [1] = 0.55392, [2] = 0.99590, [3] = 1.69334 \
                       **Insight:** [0] is data that is the closest to the train data, there is a noticable trend that training on more recent data yields better performance.    
