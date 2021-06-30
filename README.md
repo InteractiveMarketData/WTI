@@ -6,11 +6,11 @@
 **Python Version:** 3.9.2 \
 **Python Pandas:** pandas==1.2.3 \
 **Python XGBoost:** xgboost==1.3.3 \
-**Total Runtime:** 
- - Consolidating text files into Master CSV: 0 minutes
- - Resampling data timeframes and building metrics: 0 minutes
- - Train on GPU: 0 minutes
- - Predict on GPU: 0 minutes   
+**Runtime Info:** 
+ - Consolidating text files into Master CSV: 2.48 minutes
+ - Resampling data timeframes and building metrics: 28.4 minutes
+ - Train and Predict on GPU: 0 minutes
+ - Total time: 0 minutes   
 
 **========== Model Coverage ==========** \
 **Symbols:** CL \
