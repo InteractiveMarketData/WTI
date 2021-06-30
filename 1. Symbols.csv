@@ -1,0 +1,76 @@
+Symbol,Product Name,Future Type
+A6,Australian Dollar,Currency
+AD,Canadian Dollar,Currency
+B6,British Pound,Currency
+BR,Brazilian Real,Currency
+BTC,Bitcoin,Crypto
+BTP,Euro BTP Long-Bond,Interest Rate
+BZ,Brent Last Day Financial,Energy
+CA,Cocoa Futures,Soft
+CL,Crude Oil WTI,Energy
+DV,VSTOXX Futures,Volatility
+DX,US Dollar Index Future,Currency
+DY,DAX,Index
+E1,Swiss Franc,Index
+E6,Euro FX,Currency
+ED,Eurodollar,Currency
+ES,E-Mini S&P 500,Index
+EW,e-Mini S&P 500 Midcap,Index
+FX,Euro Stoxx 50,Index
+G,10-Year Long Gilt,Interest Rate
+GC,Gold,Metal
+GF,Feeder Cattle,Livestock
+GG,Euro Bund,Interest Rate
+HE,Lean Hog,Livestock
+HG,Copper,Metal
+HH,Natural Gas (Henry Hub) Last-day Financial,Energy
+HO,NY Harbor ULSD (Heating Oil),Energy
+HR,Euro Bobl,Interest Rate
+J1,Japanese Yen,Currency
+L,3 Month Sterling,Currency
+LBS,Random Length Lumber,Lumber
+LE,Live Cattle,Livestock
+M2K,Micro E-mini Russell 2000 Index,Index
+ME,e-Mini Euro FX,Currency
+MES,Micro E-mini S&P 500,Index
+ML,Milling Wheat,Grain
+MME,MSCI Emerging Markets Index,Index
+MNQ,Micro E-mini Nasdaq-100,Index
+MP,Mexican Peso,Currency
+MX,CAC40,Index
+N6,New Zealand Dollar,Currency
+NG,Henry Hub Natural Gas,Energy
+NQ,E-mini Nasdaq-100,Index
+OJ,Orange Juice,Soft
+PA,Palladium,Metal
+PL,Platinum,Metal
+RB,RBOB Gasoline,Energy
+RM,Robusta Coffee,Soft
+RP,Euro-British Pound,Currency
+RS,Canola,Grain
+RTY,e-Mini Russell 2000,Index
+RU,Russian Ruble,Currency
+SI,Silver,Metal
+T6,South African Rand,Currency
+TN,Ultra 10-Year US Treasury Note,Interest Rate
+UB,Ultra US Treasury Bond,Interest Rate
+US,30 Year US Treasury Bond Future,Interest Rate
+VX,VIX,Volatility
+X,FTSE 100,Index
+XAE,E-mini Energy Select Sector,Index
+XAF,E-mini Financial Select Sector,Index
+XAI,E-mini Industrial Select Sector,Index
+YM,Dow Mini,Index
+ZC,Corn,Grain
+ZF,5-Year Treasury Note,Interest Rate
+ZK,Ethanol,Energy
+ZL,Soybean Oil,Grain
+ZM,Soybean Meal,Grain
+ZN,10-Year Treasury Note,Interest Rate
+ZO,Oats,Grain
+ZQ,30 Day Fed Funds Future,Interest Rate
+ZR,Rough Rice,Grain
+ZS,Soybean,Grain
+ZT,2-Year Treasury Note,Interest Rate
+ZW,Wheat,Grain
+,,
