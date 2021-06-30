@@ -7,9 +7,10 @@
 **Python Pandas:** pandas==1.2.3 \
 **Python XGBoost:** xgboost==1.3.3 \
 **Total Runtime:** 
- - Consolidating text files into Master CSV: 00:00:00 minutes
- - Resampling data timeframes and building metrics: 00:00:00 minutes
- -   
+ - Consolidating text files into Master CSV: 0 minutes
+ - Resampling data timeframes and building metrics: 0 minutes
+ - Train on GPU: 0 minutes
+ - Predict on GPU: 0 minutes   
 
 **========== Model Coverage ==========** \
 **Symbols:** CL \
@@ -30,5 +31,6 @@
 **Input Data:**: OHLC with Volume, Range (H-L), Change, DollarVolume(Change * Volume), in addition, with their exponential moving average generated from the past 10 periods \
 **Evaluation Metric:** RMSE | An 0.25 RMSE would mean that the models prediction is off by an absolute value of $0.25 when it tries to predict closing price for three periods ahead. This metric does not account for the direction of prediction. \
 **Train Test Split:** For each Future Contract Month the oldest 80% of data was labelled as train with the most recent 20% as test data. The test data was further split into four groups of 5% each. \
-                      **Result(RMSE)**: [0] = 0.37783, [1] = 0.55392, [2] = 0.99590, [3] = 1.69334 \
-                      **Insight:** [0] is data that is the closest to the train data, there is a noticable trend that training on more recent data yields better performance.    
+**Result(RMSE)**: [0] = 0.37783, [1] = 0.55392, [2] = 0.99590, [3] = 1.69334 \
+**Insight:** [0] is data that is the closest to the train data, there is a noticable trend that training on more recent data yields better performance.
+**Feature Importance:**                   
