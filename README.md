@@ -19,7 +19,7 @@
 **Data Source:** https://firstratedata.com/b/29/futures-most-active \
 **Data Granularity:** 1 Minute Bars (OHLC with Volume); if volume was zero, the data point was dropped \
 **File Format:** {Symbol}{Expire Month Code}{Expire Month Year}.txt | Example: CLF09.txt > {CL}{F = January}{09 = 2009}.txt \
-**Coverage Period:**
+**Coverage Period:** Last Data Point is 2021-06-21 15:11:00
  - Pre 2021: All future contract starting from 2008-04 to 2020-12
  - 2021: All future contract from 2021-01 to 2021-12
  - Post 2022: No coverage
